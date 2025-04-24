@@ -19,4 +19,3 @@ to download embedding model from hugging face
 Once all this is done
 run the app using "streamlit run .\main.py"
 
-# Finish
